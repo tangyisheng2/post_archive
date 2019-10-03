@@ -84,109 +84,113 @@ PS.如果你还没有看过MacBook Pro的体验的话，请点这里：
 
 13. 邮件App新增了字体样式工具
 
-14. 健康App换了新UI、新增了经期检测
+14. 
+
+15. 健康App换了新UI、新增了经期检测
 
     ![health](assets/health.png)
 
-15. 文件App可以直接接U盘了，也可以直接连接SMB服务器
+16. 文件App可以直接接U盘了，也可以直接连接SMB服务器
 
     ![1569754795334](assets/1569754795334.png)
 
-16. 字体管理
+17. 字体管理
 
-    
+    ![IMG_4893](assets/IMG_4893.PNG)
 
-17. 改版备忘录，新的layout，加强版本搜索
+18. 改版备忘录，新的layout，加强版本搜索
 
     ![notes](assets/notes.png)
 
     ![IMG_4686](assets/IMG_4686.PNG)
 
-18. 优化的Safari起始页，字体加粗，图标变大，首页图标新增阴影，同时下方的按钮重绘
+19. 优化的Safari起始页，字体加粗，图标变大，首页图标新增阴影，同时下方的按钮重绘
 
     ![Safari](assets/Safari.png)
 
-19. Safari支持全屏幕截图，新增了下载中心，可以通过长按链接打开预览，并且如果链接是视频的话可以直接下载（苹果官网测试）
+20. Safari支持全屏幕截图，新增了下载中心，可以通过长按链接打开预览，并且如果链接是视频的话可以直接下载（苹果官网测试）
 
     ![Safari2](assets/Safari2.png)
 
     ![IMG_4661](assets/IMG_4661.PNG)
 
-20. 文本编辑和浏览，三指点击屏幕出现菜单栏，光标新的拖拽方式，三指复制粘贴手势
+21. 文本编辑和浏览，三指点击屏幕出现菜单栏，光标新的拖拽方式，三指复制粘贴手势
 
     ![IMG_4657](assets/IMG_4657.PNG)
 
-21. 分享页面改版，可以快速分享到iMessage，AirDrop图标和页面改版
+22. 分享页面改版，可以快速分享到iMessage，AirDrop图标和页面改版
 
     ![share](assets/share.png)
 
-22. 非3DTouch机型也支持长按呼出菜单了，相比iOS 12 项目间距减少
+23. 非3DTouch机型也支持长按呼出菜单了，相比iOS 12 项目间距减少
 
     ![3DTouch](assets/3DTouch.png)
 
-23. App Store更新移到了右上角头像里
+24. App Store更新移到了右上角头像里
 
     ![IMG_4878](assets/IMG_4878.PNG)
 
-24. Apple Music终于终于有滚动歌词了！
+25. Apple Music终于终于有滚动歌词了！
 
     ![IMG_4880](assets/IMG_4880.PNG)
 
-25. 新的音量HUD，现在可以显示调整的设备了（扬声器，耳机还是Airpods）
+26. 新的音量HUD，现在可以显示调整的设备了（扬声器，耳机还是Airpods）
 
     ![1569756688481](assets/1569756688481.png)
 
-26. 新的静音HUD
+27. 新的静音HUD
 
     ![1569756824536](assets/1569756824536.png)
 
-27. Widget的动画小改动，现在有向后淡出（不知道怎么说）的动画了。
+28. Widget的动画小改动，现在有向后淡出（不知道怎么说）的动画了。
 
     ![IMG_4698](assets/IMG_4698.PNG)
 
-28. Widget最下方编辑从圆形变为圆角矩形
+29. Widget最下方编辑从圆形变为圆角矩形
 
     ![IMG_4882](assets/IMG_4882.PNG)
 
-29. 时钟App闹钟部分现在可以显示睡眠闹钟了，同时睡眠项有新UI
+30. 时钟App闹钟部分现在可以显示睡眠闹钟了，同时睡眠项有新UI
 
     ![clock](assets/clock.png)
 
-30. 定时器有新UI了
+31. 定时器有新UI了
 
     ![IMG_4872](assets/IMG_4872.PNG)
 
-31. App 下载现在支持超过200M的App了
+32. App 下载现在支持超过200M的App了
 
     ![1569757724458](assets/1569757724458.png)
 
-32. WiFi里面可以自动连接个人热点，同时针对已经连接过的网络会专门有一个我的网络标识
+33. WiFi里面可以自动连接个人热点，同时针对已经连接过的网络会专门有一个我的网络标识
 
     ![Wifi](assets/Wifi.png)
 
-33. 电池健康里面有设置根据使用习惯自动优化电池充电
+34. 电池健康里面有设置根据使用习惯自动优化电池充电
 
     ![IMG_4889](assets/IMG_4889.PNG)
 
-34. 设置里面可以单独为不同App设置语言
+35. 设置里面可以单独为不同App设置语言
 
     ![IMG_4890](assets/IMG_4890.PNG)
 
-35. Find my iPhone和Find my Friends App整合成一个Find My
+36. Find my iPhone和Find my Friends App整合成一个Find My
 
     ![Find my](assets/Find my.png)
 
-36. 控制中心内可以选择快速连接蓝牙以及wifi
+37. 控制中心内可以选择快速连接蓝牙以及wifi
 
     ![Control_Center](assets/Control_Center.png)
 
-37. App Store更新可以显示App大小
+38. App Store更新可以显示App大小
 
-      ![IMG_4891](assets/IMG_4891.PNG)
+    ![IMG_4891](Untitled.assets/IMG_4891.PNG)
 
-      
+39. 在你起床的时候iOS会显示天气，如果你设置的睡眠的闹钟
 
-    
+       
+
+    ![IMG_4902](Untitled.assets/IMG_4902.PNG)
 
 
 
