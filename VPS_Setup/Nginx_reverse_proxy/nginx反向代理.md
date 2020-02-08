@@ -6,11 +6,11 @@ PS.原图大小34MB
 
 反代：
 
-![yande.re 526872 anmi ass c.c. chibi danua guts horns jiji kero l liana lime nadia nami nier pantsu puck puu revy rider saber sanji simon sword togame touhou usopp](assets/yande.re 526872 anmi ass c.c. chibi danua guts horns jiji kero l liana lime nadia nami nier pantsu puck puu revy rider saber sanji simon sword togame touhou usopp.png)
+![yande.re 526872 anmi ass c.c. chibi danua guts horns jiji kero l liana lime nadia nami nier pantsu puck puu revy rider saber sanji simon sword togame touhou usopp](assets/yande.re 526872 anmi ass c.c. chibi danua guts horns jiji kero l liana lime nadia nami nier pantsu puck puu revy rider saber sanji simon sword togame touhou usopp.jpg)
 
 直连：
 
-![yande.re 526872 anmi ass c.c. chibi danua guts horns jiji kero l liana lime nadia nami nier pantsu puck puu revy rider saber sanji simon sword togame touhou usopp](assets/yande.re 526872 anmi ass c.c. chibi danua guts horns jiji kero l liana lime nadia nami nier pantsu puck puu revy rider saber sanji simon sword togame touhou usopp.png)
+![yande.re 526872 anmi ass c.c. chibi danua guts horns jiji kero l liana lime nadia nami nier pantsu puck puu revy rider saber sanji simon sword togame touhou usopp](assets/yande.re 526872 anmi ass c.c. chibi danua guts horns jiji kero l liana lime nadia nami nier pantsu puck puu revy rider saber sanji simon sword togame touhou usopp.jpg)
 
 
 
