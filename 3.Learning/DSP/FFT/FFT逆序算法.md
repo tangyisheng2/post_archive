@@ -100,6 +100,28 @@ int main()
 
 ```
 
+Another Version:
+
+```c
+	//求逆序数
+	for (i = 0; i < SAMPLENUMBER; i++)
+	{
+
+		int reverse_seq = 0;
+		for (int bit = 0; bit < bit_len; bit++)
+		{
+			dataI[0] = dataR[0];
+			if (bit > 0)
+				reverse_seq += ((i / (int)pow(2, bit)) & 0x01) * pow(2, bit_len - bit - 1);
+			else
+				reverse_seq += (i & 0x01) * pow(2, bit_len - 1);
+		}
+		dataI[reverse_seq] = dataR[i];
+	}
+```
+
+
+
 Python3：
 
 ```python
